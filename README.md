@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# REACT FOOD WEBSITE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a food website built using ReactJS.
 
-## Available Scripts
+
+
+
+## Run Locally
+
+To run this locally follow the steps below:
 
 In the project directory, you can run:
 
