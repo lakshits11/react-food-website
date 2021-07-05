@@ -1,6 +1,6 @@
 # REACT FOOD WEBSITE
 
-This is a food website built using ReactJS.
+This is a food website built using React.
 
 
 

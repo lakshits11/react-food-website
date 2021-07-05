@@ -1,4 +1,3 @@
-import { booleanTypeAnnotation } from "@babel/types";
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
