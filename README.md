@@ -2,8 +2,7 @@
 
 This is a food website built using React.
 
-
-
+<a href="https://pizzalicious-react.netlify.app/" style="color:#09ff00;font-size:34px;font-weight:700">View Live</a>
 
 ## Run Locally
 
