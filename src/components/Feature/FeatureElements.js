@@ -22,7 +22,7 @@ export const FeatureContainer = styled.div`
 
   p {
     margin-bottom: 1rem;
-    padding : 0 12px;
+    padding: 0 12px;
     background: #e31837;
     border: 5px solid #ffc500;
     border-radius: 2px;

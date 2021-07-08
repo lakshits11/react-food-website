@@ -1,6 +1,5 @@
-import React from 'react'
-import {FeatureContainer, FeatureButton} from "./FeatureElements"
-
+import React from "react";
+import { FeatureContainer, FeatureButton } from "./FeatureElements";
 
 const Feature = () => {
   return (
@@ -9,7 +8,7 @@ const Feature = () => {
       <p>Farm Fresh Hot Pizza</p>
       <FeatureButton>Order Now</FeatureButton>
     </FeatureContainer>
-  )
-}
+  );
+};
 
-export default Feature
+export default Feature;
